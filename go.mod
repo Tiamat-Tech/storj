@@ -19,7 +19,7 @@ require (
 	github.com/graphql-go/graphql v0.7.9
 	github.com/jackc/pgconn v1.8.0
 	github.com/jackc/pgerrcode v0.0.0-20201024163028-a0d42d470451
-	github.com/jackc/pgtype v1.6.2
+	github.com/jackc/pgtype v1.7.0
 	github.com/jackc/pgx/v4 v4.10.1
 	github.com/jtolds/monkit-hw/v2 v2.0.0-20191108235325-141a0da276b3
 	github.com/loov/hrtime v1.0.3
